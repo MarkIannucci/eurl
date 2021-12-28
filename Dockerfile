@@ -1,4 +1,4 @@
-FROM node:8.16.0-alpine
+FROM node:lts-alpine3.14
 
 #sudo docker build -t eurl .
 #sudo docker run -p 3000:3000 -i -t eurl
